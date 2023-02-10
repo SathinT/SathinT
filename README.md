@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sathin Thenuja
-Visit [IJSE](https://www.ijse.lk/).
+
 
 <!--
 **SathinT/SathinT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
