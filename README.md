@@ -1,8 +1,8 @@
 ![Header](https://raw.githubusercontent.com/SathinT/SathinT/main/github-header-image.png)
 <h1 align="center">WELCOME !</h1>
-<h3 align="center">A frontend developer from Sri Lanka.</h3>
+<h3 align="center">I am a student frontend developer and UI/UX developer</h3>
 
-- 💻 I’m currently learning **Programming**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **sathinthenuja@gmail.com**
 
