@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/SathinT/SathinT/main/github-header-image.png)
+
 <h1 align="center">WELCOME !</h1>
 <h3 align="center">I am a student frontend developer and UI/UX developer</h3>
 
